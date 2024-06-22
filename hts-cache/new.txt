@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:51:28	87421/87421	--FM--	200	added ('OK')	text/html		file:///C:/Users/Admin/Desktop/NIIRJAN/Validate%20Certificate%20_%20Civil%20Registration%20System%20_%20Government%20of%20India.html	C:/My%20Web%20Sites/kk/file/C_/Users/Admin/Desktop/NIIRJAN/Validate%20Certificate%20_%20Civil%20Registration%20System%20_%20Government%20of%20India.html	(from )
+13:51:29	4594/4594	---M--	200	added ('OK')	image/png	etag:%22664daef8-11f2%22	https://dc.crsorgi.gov.in/favicon.png	C:/My%20Web%20Sites/kk/dc.crsorgi.gov.in/favicon.png	(from )
+13:51:31	234371/234371	---M--	200	added ('OK')	image/png	etag:%22664dc3d0-39383%22	https://dc.crsorgi.gov.in/assets/images/banner2.png	C:/My%20Web%20Sites/kk/dc.crsorgi.gov.in/assets/images/banner2.png	(from )
